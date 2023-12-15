@@ -1,9 +1,10 @@
-# Ecommerce Website In Django
-E- Commerce Website which is Created in Django.
+# Ecommerce Website Python full stack
+E- Commerce Website which is Created in the following technologies.
+Python, HTML, CSS, Django
 
 ## Installation -
-__Note - `This Only Runs in Django Venv`__
-- After creating and [configuring](https://docs.djangoproject.com/en/3.0/howto/windows/) Django in Virtual Environment use `python manage.py runserver` commant to run django server and be able to view the app.
+Run the below command to start the Django server
+python manage.py runserver
 
 ---
 
